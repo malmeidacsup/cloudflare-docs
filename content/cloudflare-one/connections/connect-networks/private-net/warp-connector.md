@@ -64,7 +64,7 @@ Each subnet must run its own WARP connector on a Linux host.  Installing on your
 
 In this example, we will create a WARP connector for subnet `10.0.0.0/24` and install it on `10.0.0.1`. We will then create a second WARP connector for subnet `192.168.1.0/24` and install it on `192.168.1.97`.
 
-1. In [Zero Trust](https://one.dash.cloudflare.com), go to **Network** > **Tunnels**.
+1. In [Zero Trust](https://one.dash.cloudflare.com), go to **Access** > **Tunnels**.
 2. Select **Create a tunnel**.
 3. For the connector type, select **WARP**. Select **Next**.
 4. A window will appear with a list of prerequisites. Select **Confirm** to continue.
